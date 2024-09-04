@@ -3,6 +3,10 @@
 </div>
 <div id="kol" align="center">
   <img src="https://komarev.com/ghpvc/?username=bs64sha256&style=flat-square&color=blue" alt=""/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
 Привет
