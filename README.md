@@ -14,7 +14,7 @@
 
 ### :space_invader: О Проекте:
 
-Cryptos application project V1.0.0 DEMO написан на Python 3.12 в августе 2024 года<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. При создании использовались такие модули как: PyAesCrypt (Шифрование), Pyperclip (Копирование текста), Tkinter (Интерфейс), Hashlib (Хеширование), Base64 (Кодирование), Random (Генерация пароля), Time (Полусекундные задержки).
+Cryptos application project V1.0.0 DEMO написан на Python 3.12 в августе 2024 года<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. При создании использовались такие модули: PyAesCrypt (Шифрование), Pyperclip (Копирование текста), Tkinter (Интерфейс), Hashlib (Хеширование), Base64 (Кодирование), Random (Генерация пароля), Time (Полусекундные задержки).
 
 ---
 
